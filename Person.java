@@ -12,4 +12,12 @@ public class Person
 	{
 		age = ageOfPerson;
 	}
+	
+	/**
+	* Shows the person's age.
+	*/
+	public int getAge()
+	{
+		return age;
+	}
 }
