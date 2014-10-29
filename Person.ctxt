@@ -1,2 +1,5 @@
 #BlueJ class context
-numComments=0
+comment0.params=ageOfPerson
+comment0.target=Person(int)
+comment0.text=\r\n\ Create\ a\ person\ and\ set\ his\ age.\ The\ age\ by\ default\ is\ set\ to\ 0.\r\n
+numComments=1

@@ -4,4 +4,12 @@
 public class Person
 {
     private int age;
+	
+    /**
+	* Create a person and set his age. The age by default is set to 0.
+	*/
+	public Person(int ageOfPerson)
+	{
+		age = ageOfPerson;
+	}
 }
